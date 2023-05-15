@@ -1,0 +1,4 @@
+com\ct\consumer\bean\Calllog.class
+com\ct\consumer\bean\CalllogConsumer.class
+com\ct\consumer\mapper\HBaseMapper.class
+com\ct\consumer\Bootstrap.class
